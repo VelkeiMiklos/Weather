@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by MV on 2022. 12. 12..
+  
+*/
+
+"button_ok"              = "OK";
+"alert_title_default"    = "Hiba történt";
+"alert_message_default"  = "Ismeretlen hiba történt";
+"nav_weather_title"      = "Időjárás";
+"label_sunrise"          = "Napkelte: ";
+"label_sunset"           = "Napnyugta: ";
+"label_empty"            = "-";
+"label_error"            = "Hiba";
+"label_empty_city"       = "Város név üres! Kérem adjon meg egy város nevet!";
+"label_invalid_data"     = "Érvénytelen adat érkezett a szervertől! Kérem próbálj újra!";
+"label_invalid_response" = "Érvénytelen válasz a szervertől! Kérem próbálja újra!";
+"label_empty_cities"     = "Nincsenek megjelenítendő városok! Kérem ellenőrizze a bemeneti adatokat!";
+"label_error_occured"    = "Hiba történt a lekérdezés során!";
+"label_information"      = "Információ";
+"label_wind"             = "Szél";
+"label_humidity"         = "Páratartalom";

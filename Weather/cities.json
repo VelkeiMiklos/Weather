@@ -1,0 +1,32 @@
+{
+  "cities": [
+    {
+      "city": "Budapest",
+      "county": "Pest Megye"
+    },
+    {
+      "city": "Győr",
+      "county": "Győr-Moson-Sopron Megye"
+    },
+    {
+      "city": "Debrecen",
+      "county": "Hajdú-Bihar Megye"
+    },
+    {
+      "city": "Székesfehérvár",
+      "county": "Fejér megye"
+    },
+    {
+      "city": "Szolnok",
+      "county": "Jász-Nagykun-Szolnok Megye"
+    },
+    {
+      "city": "Jászberény",
+      "county": "Jász-Nagykun-Szolnok Megye"
+    },
+    {
+      "city": "Nincs",
+      "county": "Jász-Nagykun-Szolnok Megye"
+    }
+  ]
+}
